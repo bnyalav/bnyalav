@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayram</h1>
 <h3 align="center">My main job Emergency Medical Technician and I'm a novice Swift developer from Turkey</h3>
-
-<img align="right" alt="Coding" width="400" stc="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
-
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **bayramyalav98@gmail.com**
