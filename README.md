@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bayram</h1>
 <h3 align="center">My main job Emergency Medical Technician and I'm a novice Swift developer from Turkey</h3>
 - 🌱 I’m currently learning **Swift**
-- 
+
 - 📫 How to reach me **bayramyalav98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
